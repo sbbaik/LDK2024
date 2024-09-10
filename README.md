@@ -11,9 +11,9 @@
 |이원*	|https://github.com/lws0619/LDK2024	|
 |최재*	|https://github.com/dmltk/LDK2024	|
 |이홍*	|https://github.com/junnong15/LDK2024	|
-|진승*	https://github.com/jin-sghn/LDK2024	|
-|손병*	https://github.com/bottle-siu/LDK2024|
-|김영*	https://github.com/LDK2024	|
-|박훈*	https://github.com/znrks02/LDK2024|
+|진승*	|https://github.com/jin-sghn/LDK2024	|
+|손병*	|https://github.com/bottle-siu/LDK2024|
+|김영*	|https://github.com/LDK2024	|
+|박훈*	|https://github.com/znrks02/LDK2024|
 
 
