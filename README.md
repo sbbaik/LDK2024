@@ -5,11 +5,15 @@
 
 |이름|깃헙 주소|
 |------|---|
-|윤지*	|https://github.com/20230400/LDK2024	|lovehun2429@gmail.com |
-|고수*	|https://github.com/troll11111/LDK2024	|gosumin0612@gmail.com |
-|안주*	|https://github.com/anjubbro/LDK2024	|2000albert@naver.com |
-|이원*	|https://github.com/lws0619/LDK2024	|totop88@naver.com |
-|최재*	|https://github.com/dmltk/LDK2024	|dorwkdidqks@gmail.com |
-|이홍*	|https://github.com/junnong15/LDK2024	|ghdwns1115@naver.com |
+|윤지*	|https://github.com/20230400/LDK2024	|
+|고수*	|https://github.com/troll11111/LDK2024	|
+|안주*	|https://github.com/anjubbro/LDK2024	|
+|이원*	|https://github.com/lws0619/LDK2024	|
+|최재*	|https://github.com/dmltk/LDK2024	|
+|이홍*	|https://github.com/junnong15/LDK2024	|
+|진승*	https://github.com/jin-sghn/LDK2024	|
+|손병*	https://github.com/bottle-siu/LDK2024|
+|김영*	https://github.com/LDK2024	|
+|박훈*	https://github.com/znrks02/LDK2024|
 
 
