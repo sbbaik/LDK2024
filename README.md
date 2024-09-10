@@ -15,5 +15,9 @@
 |손병*	|https://github.com/bottle-siu/LDK2024|
 |김영*	|https://github.com/LDK2024	|
 |박훈*	|https://github.com/znrks02/LDK2024|
+|장우*	|https://github.com/dnwlse/LDK2024 |
+|김서*	|https://github.com/sy94543/LDK2024 |
+|어하*	|https://github.com/Habin87/habin.git |
+
 
 
