@@ -54,7 +54,9 @@ chatGPT 활용 기술은 실무에 꼭 필요한 기술입니다.
 <details close>
 <summary><h3> /usr/lib.systemd/system/ssh.service; disabled; ... Active: inactive (dead)  문제 </h3></summary>
 - 강의 자료의 설치 순서 대로 "Install OpenSSH server" 체크 하여 ssh 서버를 설치했다는 가정하에
+
 * 먼저 ssh을 실행시킴: sudo systemctl start ssh
 * 부팅시 자동 실행되도록 설정: sudo systemctl enable ssh
+
 </details>
 
