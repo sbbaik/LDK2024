@@ -43,3 +43,8 @@
 |최재*	|https://github.com/dmltk/LDK2024 |
 |하지*	|https://github.com/20231841/LDK2024 |
 
+## FAQ
+
+::: chatGPT 적극 활용
+질문이 생기면 chatGPT에게 물어보고 직접 해결하도록 노력해보세요. 
+chatGPT 활용 기술은 실무에 꼭 필요한 기술입니다. 
