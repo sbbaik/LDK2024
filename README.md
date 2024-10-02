@@ -66,7 +66,7 @@ chatGPT 활용 기술은 실무에 꼭 필요한 기술입니다.
 <details close>
 <summary><b> VM 서버로부터 파일 다운로드 방법 </b></summary>
 
-* MobaXterm: 좌측 파일 창에서 파일 선택화  상단에 파일 다운로드 아이콘 클릭 \n
+* MobaXterm: 좌측 파일 창에서 파일 선택화  상단에 파일 다운로드 아이콘 클릭.
 * putty: "pcppscp {user_name}@10.0.2.4:/home/{user_name}/file.txt c:\tmp"
 
   - 참고 사이트: https://xfree302.tistory.com/269
