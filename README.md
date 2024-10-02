@@ -25,7 +25,7 @@
 |고수*	|https://github.com/troll11111/LDK2024 |
 |김민*	|https://github.com/keem-minseo/LDK2024 |
 |김서*	|https://github.com/sy94543/LDK2024 |
-|김* 현 |https://github.com/LDK2024 |
+|김* 현 |https://github.com/LDK2024/20211794 |
 |김* 환 ||
 |김준*	|https://github.com/june713/LDK2024 |
 |김희*  ||
@@ -37,14 +37,14 @@
 |어하*	|https://github.com/Habin87/habin.git |
 |엄태*	|https://github.com/UTJ45/utj.git |
 |윤지*	|https://github.com/20230400/lovehun2429.git |
-|이원*	|https://github.com/lws0619/LDK2024 |
-|이홍*	|https://github.com/junnong15/LDK2024 |
+|이원*	|https://github.com/lws0619/hamster |
+|이홍*	|https://github.com/junnong15/demo |
 |장우*	|https://github.com/dnwlse/LDK2024 |
 |전  *  ||
 |진승*	|https://github.com/jin-sghn/LDK2024 |
 |최재*	|https://github.com/dmltk/LDK2024 |
 |하지*	|https://github.com/20231841/LDK2024 |
-|홍우*  |https://github.com/anthony20049096/LDK204 |
+|홍우*  |https://github.com/anthony20049096/anthony0906 |
 
 ## FAQ
 
