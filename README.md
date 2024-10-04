@@ -26,7 +26,7 @@
 |김민*	|https://github.com/keem-minseo/LDK2024 |
 |김서*	|https://github.com/sy94543/LDK2024 |
 |김* 현 |https://github.com/LDK2024/20211794 |
-|김* 환 ||
+|김* 환 |https://github.com/younghwankimmmm/LDK2024 |
 |김준*	|https://github.com/june713/LDK2024 |
 |김희*  ||
 |박훈*	|https://github.com/znrks02/LDK2024 |
