@@ -74,3 +74,13 @@ chatGPT 활용 기술은 실무에 꼭 필요한 기술입니다.
 </details>
 
 
+<details open>
+<summary><b> $sudo apt-get update 실행 시 'kr.archive.ubuntu.com' 접속 불가 문제 해결 방법</b></summary>
+
+* grep -r "kr.archive"/etc/apt/ 실행
+* 여기에서 나오는 모든 파일을 하나씩 열어서
+  => "kr.archive"를 포함하고 있는 모든 라인을 #으로 주석 처리!
+
+</details>
+
+
